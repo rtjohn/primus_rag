@@ -1,0 +1,6 @@
+.env
+vector_index.pkl
+__pycache__/
+.vscode/
+dnd_env/
+.DS_Store
