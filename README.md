@@ -3,8 +3,8 @@ A RAG system that hopefully will prove useful to people who play Dungeons & Drag
 This project is under active development and will change frequently.
 
 ### Files:
-main.py - reads in the context files, creates embeddings, and stores them in a vector index
-ui.py - loads the vector index and generates a simple web interface for querying the context and getting back responses.
+- main.py - reads in the context files, creates embeddings, and stores them in a vector index
+- ui.py - loads the vector index and generates a simple web interface for querying the context and getting back responses.
 
 ### Additional Notes:
 The majority of work for this project has gone into obtaining the context data.  Intially, data collection code was contained within the same repo as the rag system itself.
